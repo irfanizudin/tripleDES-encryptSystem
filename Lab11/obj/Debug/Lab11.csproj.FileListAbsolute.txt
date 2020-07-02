@@ -1,0 +1,9 @@
+E:\Visual Studio 12\Project\Lab11\Lab11\bin\Debug\Lab11.exe.config
+E:\Visual Studio 12\Project\Lab11\Lab11\bin\Debug\Lab11.exe
+E:\Visual Studio 12\Project\Lab11\Lab11\bin\Debug\Lab11.pdb
+E:\Visual Studio 12\Project\Lab11\Lab11\obj\Debug\Lab11.csprojResolveAssemblyReference.cache
+E:\Visual Studio 12\Project\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
+E:\Visual Studio 12\Project\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+E:\Visual Studio 12\Project\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.Cache
+E:\Visual Studio 12\Project\Lab11\Lab11\obj\Debug\Lab11.exe
+E:\Visual Studio 12\Project\Lab11\Lab11\obj\Debug\Lab11.pdb
